@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * get_width - A program that calculates width for printing
  * @format: Format string which to print the arguments.
